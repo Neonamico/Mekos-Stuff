@@ -1,0 +1,11 @@
+/*Change Discords Title Bar */
+.titleBar-1it3bQ::before {
+    content: "Meko's Discord";
+    position: absolute;
+    top: 8px;
+    left: 900px;
+    height: 20px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 15px;
+}
