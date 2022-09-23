@@ -1,17 +1,7 @@
-/**
- * @name Mekos Material Design
- * @version 0.9.9
- * @author TheCommieAxolotl#0001
- * @authorId 538487970408300544
- * @description A clean theme inspired by Google's Material Design Guidelines.
- * @source https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/MaterialDesign
- * @website https://thecommieaxolotl.github.io/BetterDiscord-Stuff/
- * @invite g2KnUw7u7N
- * @donate https://github.com/sponsors/TheCommieAxolotl/
-*/
+/* Meko's Custom Material Design Discord Theme */
+/* Theme includes 'Horizontal Server List' and 'Radial Status' */
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@100;300;400;500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;300;400;500;700&display=swap');
+
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
 @import url('https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Imports/UserBadges.css');
 @import url('https://maendisease.github.io/BetterDiscordStuff/css/bettterInvites.css');
@@ -21,7 +11,7 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
-  --font-primary: Roboto Condensed;
+  --font-primary: Roboto;
   --font-code: Heebo;
   --floating-background-opacity: 100;
   --floating-background-blur: 0px;
