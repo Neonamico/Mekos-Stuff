@@ -1,0 +1,44 @@
+/* Auto-hide the members list, show on hover */
+.chatContent-3KubbW {
+	max-width: calc(100% - 60px);
+}
+
+.title-31SJ6t {
+	z-index: 11;
+}
+
+.members-3WRCEx,
+.membersWrap-3NUR2t {
+	border-radius: 20px 0 0 20px !important;
+	min-width: 60px;
+	transition-duration: 500ms;
+	transition-property: box-shadow, min-width, width;
+	width: 60px;
+	z-index: 10;
+}
+
+.members-3WRCEx:hover,
+.membersWrap-3NUR2t:hover {
+	min-width: 240px;
+	width: 240px;
+}
+
+.membersWrap-3NUR2t {
+	height: 100%;
+	position: absolute;
+	right: 0;
+}
+
+.membersWrap-3NUR2t:hover {
+	box-shadow: 0 0 20px 10px #00000044;
+}
+
+.membersGroup-2eiWxl {
+	height: 0;
+	transition-duration: 500ms;
+	transition-property: height;
+}
+
+.members-3WRCEx:hover .membersGroup-2eiWxl {
+	height: 40px;
+}
