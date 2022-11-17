@@ -1,6 +1,6 @@
 /* Like Another Window */
 #app-mount .withFrame-2dL45i {
-    margin: 24px 24px 0;
+    margin: 10px 10px 0;
 }
 #app-mount .withFrame-2dL45i::after {
     top: calc(30px + var(--border-width));
