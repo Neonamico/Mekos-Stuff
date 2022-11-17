@@ -241,7 +241,7 @@
     width: 12px;
     height: 12px;
     top: 10px;
-    left: 5px;
+    left: 50px;
     margin-left: 5px;
     margin-right: 5px;
 }
@@ -259,7 +259,7 @@
 .winButton-3UMjdg:nth-child(2):hover,
 .winButton-3UMjdg:nth-child(3):hover,
 .winButton-3UMjdg:nth-child(4):hover {
-    transform: scale(3.54);
+    transform: scale(1.14);
 }
 
 /* Background Gradient */
