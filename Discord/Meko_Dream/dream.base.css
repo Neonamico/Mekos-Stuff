@@ -757,8 +757,8 @@ div#app-mount.appMount-2yBXZl {
 
 /* Chatbar */
 :root {
-    --channeltextarea-background: #F0F2F2;
-    --text-color: #313D40;
+    --channeltextarea-background: #202020;
+    --text-color: #ffffff;
     --icon-color: var(--text-color);
 }
 .theme-dark .footer-3naVBw .input-2z42oC,
