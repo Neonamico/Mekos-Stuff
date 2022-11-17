@@ -1430,26 +1430,7 @@ div#app-mount.appMount-2yBXZl {
     pointer-events: none !important;
 }
 
-/* what happened with CustomCSS */
-.contentRegion-3HkfJJ #bd-editor-controls::after {
-    content: "Click here sorry...";
-    color: var(--text-normal);
-    width: 0%;
-    height: 100%;
-    position: absolute;
-    top: 110px;
-    right: 70px;
-}
-.contentRegion-3HkfJJ #bd-editor-controls::before {
-    content: "<<<<<<<<<";
-    color: var(--text-normal);
-    width: 0%;
-    height: 100%;
-    position: absolute;
-    top: 76px;
-    right: 52px;
-    font-weight: bolder;
-}
+
 
 /* Settings Toggles */
 .bd-switch input:checked + .bd-switch-body {
