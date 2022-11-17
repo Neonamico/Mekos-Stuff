@@ -246,22 +246,6 @@
     margin-right: 5px;
 }
 
-.winButton-3UMjdg:nth-child(2) {
-    background: var(--close-color);
-}
-.winButton-3UMjdg:nth-child(3) {
-    background: var(--max-color);
-}
-.winButton-3UMjdg:nth-child(4) {
-    background: var(--min-color);
-}
-
-.winButton-3UMjdg:nth-child(2):hover,
-.winButton-3UMjdg:nth-child(3):hover,
-.winButton-3UMjdg:nth-child(4):hover {
-    transform: scale(1.14);
-}
-
 /* Background Gradient */
 div#app-mount.appMount-2yBXZl {
     background-image: linear-gradient(90deg, var(--bg-gradient1) 0%, var(--bg-gradient2) 50%, var(--bg-gradient3) 100%);
