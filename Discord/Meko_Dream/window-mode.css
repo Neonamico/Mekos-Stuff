@@ -3,7 +3,7 @@
     margin: 10px 10px 0;
 }
 #app-mount .withFrame-2dL45i::after {
-    top: calc(30px + var(--border-width));
+    top: calc(10px + var(--border-width));
     width: calc((100% - var(--border-width)*2) - 24px*2);
 }
 #app-mount .layers-OrUESM {
